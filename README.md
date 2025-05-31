@@ -22,16 +22,16 @@
   </div>
 
   <h2>🌐 Minhas Redes Sociais</h2>
-  <div>
-    <a href="https://www.linkedin.com/in/leonardo-silva-de-sousa-9b345715a" target="_blank" class="social">
-      <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/linkedin.png" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/lsilv.leo" target="_blank" class="social">
-      <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/instagram.png" alt="Instagram">
-    </a>
-    <a href="mailto:lsilvasousa00@gmail.com" target="_blank" class="social">
-      <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/gmail.png" alt="Email">
-    </a>
-  </div>
+<div>
+  <a href="https://www.linkedin.com/in/leonardo-silva-de-sousa-9b345715a" target="_blank">
+    <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/lsilv.leo" target="_blank">
+    <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/instagram.png" alt="Instagram">
+  </a>
+  <a href="mailto:lsilvasousa00@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/gmail.png" alt="Email">
+  </a>
+</div>
 </body>
 </html>
