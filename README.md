@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <body>
 
-  <h1>🚀 Minhas Habilidades</h1>
+  <h2>🚀 Minhas Habilidades</h2>
   <div>
       <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/java.png" alt="java">
       <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/csharp.png" alt="csharp">
@@ -21,7 +21,7 @@
       <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/linux.png" alt="linux">
   </div>
 
-  <h1>🌐 Minhas Redes Sociais</h1>
+  <h2>🌐 Minhas Redes Sociais</h2>
   <div>
     <a href="https://www.linkedin.com/in/leonardo-silva-de-sousa-9b345715a" target="_blank" class="social">
       <img src="https://raw.githubusercontent.com/lsilv99/portfolio/main/icons/linkedin.png" alt="LinkedIn">
